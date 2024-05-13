@@ -16,7 +16,7 @@ int main() {
     Point point1;
     Point point2;
 
-    point1.SetFirstPoint(1.6);
+    point1.SetFirstPoint(1);
     point1.SetSecondPoint(0.98);
     point1.SetThirdPoint(0.0);
     point2.SetFirstPoint(0.4);
