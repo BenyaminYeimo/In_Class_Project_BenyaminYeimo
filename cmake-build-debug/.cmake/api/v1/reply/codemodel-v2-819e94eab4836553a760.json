@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "In_Class_Project_BenyaminYeimo",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "In_Class_Project_BenyaminYeimo::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-In_Class_Project_BenyaminYeimo-Debug-9c3aa79e987b5db9e070.json",
+					"name" : "In_Class_Project_BenyaminYeimo",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Benyamin Weekly Project/In_Class_Project_BenyaminYeimo/cmake-build-debug",
+		"source" : "D:/Benyamin Weekly Project/In_Class_Project_BenyaminYeimo"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

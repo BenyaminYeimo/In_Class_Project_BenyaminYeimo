@@ -1,0 +1,3 @@
+D:/Benyamin Weekly Project/In_Class_Project_BenyaminYeimo/cmake-build-debug/CMakeFiles/In_Class_Project_BenyaminYeimo.dir
+D:/Benyamin Weekly Project/In_Class_Project_BenyaminYeimo/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Benyamin Weekly Project/In_Class_Project_BenyaminYeimo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
